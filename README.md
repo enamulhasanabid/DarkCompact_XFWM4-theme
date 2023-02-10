@@ -1,7 +1,7 @@
 Darkcompact_XFWM4-theme (Redesigned)
 =======================
 
-##### Redesigned theme of [@Deevad's](https://github.com/Deevad) **[Darkcompact_xfwm4-theme](https://github.com/Deevad/Darkcompact_xfwm4-theme)**
+#### Redesigned theme of [@Deevad's](https://github.com/Deevad) **[Darkcompact_xfwm4-theme](https://github.com/Deevad/Darkcompact_xfwm4-theme)**
 
 
 
